@@ -1,5 +1,5 @@
 ﻿name="A War Never Won"
-path="mod/awnw/"
+path="mod/A-War-Never-Won/"
 tags={
 	"Alternative History"
 	"National Focuses"
